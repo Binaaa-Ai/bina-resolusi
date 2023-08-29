@@ -1,0 +1,4 @@
+bina RESOLUSI
+- Konsisten untuk belajar flutter
+- Belajar algoritma dart
+- Belajar Backend dan frontend
